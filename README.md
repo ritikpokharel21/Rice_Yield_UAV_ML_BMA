@@ -28,9 +28,9 @@ Raw UAV imagery and field data are not included due to size and privacy constrai
 This repository accompanies an unpublished manuscript currently under preparation. The code will be updated upon manuscript acceptance.
 
 ## Example Results figures contains
-### Measured vs Predicted Yield scatterplot
-### Model Performance Comparison barplots
-### RMSE Distribution Across Models boxplots
+-Measured vs Predicted Yield scatterplot
+-Model Performance Comparison barplots
+-RMSE Distribution Across Models boxplots
 
 ## Author
 Ritik Pokharel  
