@@ -20,6 +20,7 @@ This repository contains Python code for rice yield prediction using UAV-derived
 - Independent test set evaluation
 - Ensemble modeling using BMA
 - Performance assessment using benefit indices and error metrics
+- Feature importance analysis
 
 ## Data Availability
 Raw UAV imagery and field data are not included due to size and privacy constraints. The repository focuses on modeling workflows and evaluation methods.
